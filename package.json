@@ -1,5 +1,6 @@
 {
   "name": "kuvera-web-clone",
+  "homepage": "https://github.com/gopichand427/kuvera.web.in.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
