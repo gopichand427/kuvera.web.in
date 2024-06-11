@@ -1,0 +1,101 @@
+.first-section-footer{
+
+    color: white;
+    display: inline;
+    justify-content: center;
+    display: flex;
+    gap: 30px;
+}
+.first-section-1-footer{
+    background-color: rgb(18, 18, 90);
+    justify-content: center;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 20px;
+}
+.Kuvera-Log-footer{
+    width: 150px;
+    margin-top: 20px;
+}
+.first-section-sub1{
+    text-align: start;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 200px;
+}
+.first-section-sub2{
+    text-align: start;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+
+}
+.icond-footer{
+    height: 50px;
+    width: 50px;
+}
+.icons-div{
+     display: flex;
+     gap: 20px;
+
+     
+}
+.footer-button{
+    padding: 10px;
+    background-color: transparent;
+    border-radius: 20px;
+    border-width: 1px;
+    color: white;
+    border-color: white;
+    margin-top: 10px;
+}
+.About-us-section{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-align: start;
+}
+.About-us-section a{
+    color: white;
+    font-family: sans-serif;
+}
+.Footer-Line{
+    width: 100%;
+    height: 1px;
+    background-color: aliceblue;
+
+}
+.app-img-footer{
+    height: 100px;
+    width: 100px;
+
+}
+.android-app-img-footer{
+    height: 50px;
+    width: 100px;
+}
+.footer-end-div{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.footer-div-1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+
+@media only screen and (min-width:430px) and (max-width:700px){
+    .first-section-footer{
+        flex-wrap: wrap;
+    }
+    .first-section-sub2{
+        flex-wrap: wrap;
+    
+    }
+}

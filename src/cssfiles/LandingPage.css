@@ -1,0 +1,296 @@
+.first-section-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.lanndingimage{
+    padding-top: 0px;
+}
+.MutualFunds-subdiv{
+    display: flex;
+    text-align: start;
+    gap: 30px;
+}
+.section-sub-div{
+    text-align: start;
+    column-gap: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.section-sub-div-1{
+height: 500px;
+width: 100%;
+
+}
+.landing-a{
+    color: blue;
+}
+.line-div-blue{
+    width: 100%;
+    height: 2px;
+    background-color: rgb(8, 0, 255);
+    opacity: 0.5;
+    margin-top: 10px;
+}
+.line-div{
+    width: 100%;
+    height: 1px;
+    background-color: black;
+    opacity: 0.2;
+}
+
+.second-section-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.second-section-sub-div{
+    align-self: center;
+    display: flex;
+    column-gap: 30px;
+}
+.lanndingimage-icons{
+    padding-top: 20px;
+}
+.lanndingi-icons{
+height: 100px;
+width: 100px;
+}
+
+.thered-section-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: start;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+}
+.thered-sectionsub-div{
+    display: flex;
+    column-gap: 20px;
+    padding: 20px;
+    overflow: hidden;
+    overflow-x: scroll;
+}
+.thered-section-subdiv{
+    background-color: rgba(213, 234, 255, .45);
+    border-radius: 10px;
+    padding: 30px;
+    height: 340px;
+}
+.button-1{
+    height: 45px;
+    width: 150px;
+    border-radius: 20px;
+    color: rgb(45, 181, 239);
+    border-width: 1px;
+    border-color: rgba(71, 188, 239, 0.779);
+    background-color: transparent;
+    font-size: 11px;
+}
+
+.fourth-section-div{
+    display: flex;
+    background-color: rgb(240, 234, 59);
+    column-gap: 30px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-content: center;
+    text-align: start;
+}
+.fourth-section-div p{
+    font-size: 10px;
+
+}
+.fiveth-section-div{
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+padding-left: 150px;
+padding-right: 150px;
+padding-bottom: 50px;
+
+}
+.fiveth-sectionsub-div{
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+}
+.fiveth-sectionsub-subdiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    }
+    .fiveth-sectionsub-subdiv p{
+        margin-bottom: -20px;
+    }
+
+.fiveth-sectionsub-subdiv-1{
+    width: 200px;
+    padding: 10px;
+    text-align: start;
+}
+.fiveth-sectionsub-subdiv-1 p{
+    font-size: 10px;
+}
+.fiveth-sectionsub-div button{
+    width: 150px;
+    padding: 15px;
+    background-color: rgb(100, 193, 236);
+    color: white;
+    border-radius: 30px;
+    border-style: none;
+    margin-top: 50px;
+}
+.sixth-section-div{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: start;
+    column-gap: 100px;
+    padding-left: 150px;
+padding-right: 150px;
+padding-bottom: 50px;
+background-color: rgb(227, 233, 239);
+
+}
+.sixth-section-div h1{
+font-size: 30px;
+}
+.seventh-sections-dive{
+display: flex;
+column-gap: 60px;
+padding-left: 150px;
+padding-right: 150px;
+padding-bottom: 50px;
+padding-top: 10px;
+}
+.seventh-sectionsub1-dive{
+    text-align: start;
+    margin-top: 50px;
+
+}
+.seventh-sectionsub2-dive{
+    display: flex;
+    text-align: start;
+    margin-top: 100px;
+}
+.seventh-sectionsub2-dive p{
+    font-weight: 500;
+    color: blue;
+}
+.eighth-section-div{
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+
+}
+.eighth-section-card1{
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.493);
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.eighth-section-card{
+display: flex;
+overflow: hidden;
+column-gap: 20px;
+overflow-x: scroll;
+padding: 30px;
+}
+.eighth-section-card p{
+    font-size: 8px;
+}
+.eighth-section-card h6{
+margin-bottom: -7px;
+}
+.eighth-section-card a{
+    font-size: 8px;
+    color: blue;
+}
+.lanndingimage-persons{
+    border-radius: 50%;
+    height: 100px;
+}
+
+
+@media only screen and (min-width:430px) and (max-width:700px){
+    .lanndingimage{
+        height: 200px;
+        width: 200px;
+    }
+
+    .thered-section-div{
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .fourth-section-div{
+    
+        padding-left: 50px;
+        padding-right: 50px;
+     
+    }
+    .fiveth-section-div{
+        padding-left: 50px;
+        padding-right: 50px;
+        
+        }
+        .sixth-section-div{
+
+        padding-left: 50px;
+        padding-right: 50px;
+        flex-wrap: wrap;
+
+        
+        }
+        .seventh-sections-dive{
+     
+            padding-left: 50px;
+            padding-right: 50px;
+            flex-wrap: wrap;
+
+            }
+            .eighth-section-div{
+
+                padding-left: 50px;
+                padding-right: 50px;
+            }
+            .lanndingimage-icons{
+                padding-top: 0px;
+                height:40px;
+                width: 40px;
+            }
+            .second-section-sub-div{
+                align-self: center;
+                display: flex;
+                column-gap: 10px;
+                margin-left: 50px;
+            }
+            .second-section-sub-div h1{
+                font-size: 12px;
+            }
+            .fiveth-sectionsub-div h3{
+                font-size: 15px;
+            }
+            .fiveth-sectionsub-div p{
+                font-size: 10px;
+                margin-bottom: -6px;
+            }
+            .fiveth-sectionsub-subdiv{
+                flex-wrap: wrap;
+            }
+
+
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="96" viewBox="0 0 120 96">
+    <g fill="none" fill-rule="evenodd">
+        <g stroke="#1C202B">
+            <path fill="#FFF" stroke-linejoin="round" d="M33 21h56v24.273L79 49H33z"/>
+            <path fill="#A7CCF6" d="M80.228 25.5H41.65c-.22 2.317-1.954 4.17-4.15 4.417v10.028c2.243.251 3.993 2.174 4.16 4.554h38.557c.166-2.428 1.988-4.367 4.282-4.566l.001-10.005c-2.253-.19-4.047-2.068-4.272-4.428z"/>
+            <g stroke-linecap="round">
+                <path d="M58.164 30.388h6.428"/>
+                <path stroke-linejoin="round" d="M58.164 30.388c2.803-.192 4.204.766 4.204 2.873 0 1.757-1.401 2.635-4.204 2.635l4.485 4.933"/>
+                <path d="M58.516 33.028h6.429"/>
+            </g>
+            <g transform="matrix(-1 0 0 1 120 33)">
+                <path stroke-linecap="round" d="M19.375 13.375l87.5 42.5"/>
+                <path fill="#BAD0D9" d="M91.5 34.75c-7.456 0-13.5 6.044-13.5 13.5s6.044 13.5 13.5 13.5 13.5-6.044 13.5-13.5-6.044-13.5-13.5-13.5zm0 7a6.5 6.5 0 1 1 0 13 6.5 6.5 0 0 1 0-13z"/>
+                <rect width="19" height="9" x="1.75" y="4.5" fill="#BAD0D9" rx="2.5" transform="rotate(27 11.25 9)"/>
+                <path fill="#A7CCF6" d="M22.434 11.756l53.4 26.196 32.588-25.576-3.854-2.224H23.081l-.647 1.604z"/>
+                <path stroke-linecap="round" d="M44.177 25.845v31.084l5.972 3.537 19.482-22.328"/>
+            </g>
+        </g>
+        <g>
+            <circle cx="22" cy="22" r="22" fill="#2B3D51"/>
+            <text fill="#FFF" font-family="Rubik-Regular, Rubik" font-size="24">
+                <tspan x="13" y="30">%</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

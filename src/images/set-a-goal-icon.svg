@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="97" viewBox="0 0 120 97">
+    <g fill="none" fill-rule="evenodd">
+        <g stroke="#1C202B">
+            <path fill="#BAD0D9" stroke-linejoin="round" d="M45.267 83.26L77.044 32.99 119.425 96H14l31.267-45.897 10.689 16.203z"/>
+            <path fill="#FFF" stroke-linejoin="round" d="M62.968 55.242l14.076-22.25 14.738 21.94-7.571 7.192-7.167-6.882-6.898 6.882zM51.75 72.985l-6.483-6.49-5.217 4.884-5.477-5.073 10.694-16.203 10.689 16.203z"/>
+            <path stroke-linecap="round" stroke-linejoin="round" d="M77.193 4v28.991"/>
+            <path fill="#A7CCF6" d="M69.927 7h7.03v16.958H68V8.927C68 7.863 68.863 7 69.927 7zM65.801 28.45H50l8.323-8.31L50 11.493h17.728v15.03a1.927 1.927 0 0 1-1.927 1.928z"/>
+        </g>
+        <g>
+            <circle cx="22" cy="22" r="22" fill="#2B3D51"/>
+            <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M31.479 16l-12.24 13.16L14 24"/>
+        </g>
+    </g>
+</svg>

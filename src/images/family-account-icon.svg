@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="96" viewBox="0 0 120 96">
+    <g fill="none" fill-rule="evenodd">
+        <g stroke="#1C202B" transform="translate(28 4)">
+            <ellipse cx="46" cy="45.459" fill="#BAD0D9" rx="45.5" ry="44.959"/>
+            <path fill="#A7CCF6" d="M12.547 75.79a45.58 45.58 0 0 0 29.385 14.552V58.384c0-6.79-5.504-12.293-12.293-12.293h-4.797c-6.79 0-12.293 5.503-12.293 12.293l-.002 17.406z"/>
+            <ellipse cx="12.001" cy="11.852" fill="#FFF" rx="11.493" ry="11.352" transform="translate(15.239 24.651)"/>
+            <g transform="translate(45.535 8.659)">
+                <path fill="#A7CCF6" d="M.594 81.882h.118c12.783 0 24.716-5.236 33.265-14.285V37.288c0-6.79-5.504-12.293-12.293-12.293h-8.796C6.1 24.995.595 30.499.595 37.288L.594 81.882z"/>
+                <ellipse cx="17.286" cy="13.828" fill="#FFF" rx="13.492" ry="13.328"/>
+            </g>
+            <g transform="translate(32.342 55.365)">
+                <path fill="#A7CCF6" d="M.594 33.222a46 46 0 0 0 13.31 1.954c3.843 0 7.622-.47 11.277-1.39v-7.593a9.495 9.495 0 0 0-9.494-9.495H10.09a9.495 9.495 0 0 0-9.495 9.495l-.001 7.03z"/>
+                <ellipse cx="12.888" cy="9.877" fill="#FFF" rx="9.495" ry="9.377"/>
+            </g>
+        </g>
+        <g transform="translate(0 .125)">
+            <circle cx="22" cy="22" r="22" fill="#2B3D51"/>
+            <g stroke="#FFF" stroke-linecap="round" stroke-width="1.818">
+                <path stroke-linejoin="round" d="M12.884 18.33l9.09-5.455 9.091 5.455"/>
+                <path d="M21.975 20.244v5.657M30.793 28.981H13.157M16.975 20.244v5.657M26.975 20.244v5.657"/>
+            </g>
+        </g>
+    </g>
+</svg>

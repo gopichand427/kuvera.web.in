@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="96" viewBox="0 0 120 96">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#BAD0D9" stroke="#1C202B" stroke-linecap="square" d="M34.367 27.97h80.454a4 4 0 0 1 4 4v58.578a4 4 0 0 1-4 4H34.367a4 4 0 0 1-4-4V31.97a4 4 0 0 1 4-4z"/>
+        <g stroke="#2B3D51" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M86.809 88.73h17.544M109.366 88.73h2.506M36.633 58.781v17.47M36.633 81.242v7.487M36.633 88.73h7.519"/>
+        </g>
+        <path fill="#FFF" stroke="#1C202B" stroke-linecap="square" d="M30.367 44.15V31.97a4 4 0 0 1 4-4h80.454a4 4 0 0 1 4 4v8.907C99.008 51.787 83.937 57.24 73.608 57.24s-24.742-4.363-43.24-13.09z"/>
+        <path fill="#A7CCF6" stroke="#1C202B" stroke-linecap="square" d="M72 49.386h3.888a2 2 0 0 1 2 2v9.745a2 2 0 0 1-2 2H72a2 2 0 0 1-2-2v-9.745a2 2 0 0 1 2-2z"/>
+        <path stroke="#1C202B" stroke-linecap="square" d="M57.833 27.97v-5.855a2 2 0 0 1 2-2h27.55a2 2 0 0 1 2 2v5.854"/>
+        <g transform="matrix(1 0 0 -1 .424 44.178)">
+            <circle cx="22" cy="22" r="22" fill="#2B3D51"/>
+            <g stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M11.608 23.2l9.476-.652-.652 9.475M19.288 15.52l9.475-.652-.652 9.475"/>
+            </g>
+        </g>
+    </g>
+</svg>

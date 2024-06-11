@@ -1,0 +1,199 @@
+.navbar-container {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 50px;
+    transition: background-color 0.3s;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    
+
+
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 95%;
+    background-color:rgb(255, 255, 255);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+nav{
+    display: flex;
+    gap: 10px;
+}
+
+.Kuvera-Log{
+    height: 50px;
+    width: 80px;
+}
+
+.options-div{
+    display: flex;
+    gap: 5px;
+    justify-content: first baseline;
+    border: none;
+    background-color: transparent;
+}
+.text-a{
+    color: #a6abb0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    list-style-type: none;
+
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    color: #a6abb0;
+}
+.text-a:hover{
+    color: black;
+}
+.section-2{
+    display: flex;
+    gap: 15px;
+}
+.dropdown{
+    z-index: 1;
+    left: 200px;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px;
+    text-align: start;
+    border-radius: 10px;
+    width: 15%;
+    color: #888e94;
+    background-color: rgb(255, 255, 255);
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.main-buttons{
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 17px;
+    margin-right: 15px;
+}
+.main-buttons-2{
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 30px;
+    margin-right: 15px;
+}
+.buttons{
+    width: 25px;
+    height: 2px;
+    background-color: black;
+    border-radius: 10px;
+}
+.buttons-1{
+    margin-top: 0px;
+    rotate: -45deg;
+    width: 25px;
+    height: 2px;
+    background-color: black;
+    border-radius: 10px;
+}
+.buttons-2{
+    margin-top: -2px;
+    rotate: 45deg;
+    width: 25px;
+    height: 2px;
+    background-color: black;
+    border-radius: 10px;
+}
+.navbar{
+    height: 150vh;
+    width: 100%;
+    position: fixed;
+    z-index: 2;
+    background-color: rgb(255, 255, 255);
+    margin-top: -80px;
+    left: -100%;
+    transition: left 1s ease-in-out;
+    display: none;
+
+}
+.navbar-show{
+    left: 0%;
+}
+
+
+@media only screen and (min-width:430px) and (max-width:700px){
+    .Offcanva-header{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 15px;
+    }
+    .main-buttons-2{
+        display: block;
+    }
+    .options-div,.section-2{
+        display: none;
+    }
+    .main-buttons{
+        display: flex;
+    }
+    .navbar{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+    .navbar-section-1{
+        display: flex;
+        flex-direction: column;
+        align-items: self-start;
+        gap: 15px;
+        padding-left: 25px;
+        padding-top: 20px;
+    }
+    .ofcanva-sections{
+        border-style: none;
+        background-color: transparent;
+        color: #888e94;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bolder;
+    }
+    .text-a{
+        color: #a6abb0;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        font-weight: normal;
+        list-style-type: none;
+    }
+    .downArow3{
+        margin-left: 10px;
+        margin-bottom: -5px;
+    }
+    .downArow4{
+        margin-left: 10px;
+        margin-bottom: -5px;
+    }
+    .downArow-rotat{
+        rotate: 180deg;
+    }
+    .downArow-rotat-0{
+        rotate: 0deg;
+    }
+    .dropdown-section{
+        display: flex;
+        flex-direction: column;
+        row-gap: 10px;
+        padding-left: 20px;
+        margin-top: 10px;
+        align-items: start;
+    }
+
+}
+
